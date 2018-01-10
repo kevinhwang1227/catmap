@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\user\Desktop\catapp-master\catapp.iml" filepath="C:\Users\user\Desktop\catapp-master\catapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/catapp-master.iml" filepath="$PROJECT_DIR$/catapp-master.iml" />
+    </modules>
+  </component>
+</project>
